@@ -17,7 +17,7 @@ export class XMasTree extends React.Component<IXMasTreeProps> {
 
                 <div className={`${styles.ribbonWrapper} ${styles.big}`}>
 	    	        <span>
-	    		        <span style={{width:"100%"}}>Merry Christmas</span>
+	    		        <span style={{width:"100%"}}>Happy Holidays!</span>
 	    	        </span>
 	            </div>
 
